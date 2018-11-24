@@ -1,0 +1,5 @@
+.idea/*
+*.iml
+target/*
+the_first_module/target/*
+the_second_module/target/*
