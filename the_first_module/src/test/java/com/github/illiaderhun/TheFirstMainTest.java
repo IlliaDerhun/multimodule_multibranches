@@ -9,7 +9,7 @@ public class TheFirstMainTest {
     @Test
     public void add() {
         TheFirstMain theFirstMain = new TheFirstMain();
-        int expected = 3;
+        int expected = 4;
         int actual = theFirstMain.add(2, 2);
         assertEquals(expected, actual);
     }
