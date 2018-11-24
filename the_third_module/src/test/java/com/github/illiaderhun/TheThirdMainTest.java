@@ -9,7 +9,7 @@ public class TheThirdMainTest {
     @Test
     public void add() {
         TheThirdMain theFirstMain = new TheThirdMain();
-        int expected = 4;
+        int expected = 5;
         int actual = theFirstMain.sub(2, 2);
         assertEquals(expected, actual);
     }
