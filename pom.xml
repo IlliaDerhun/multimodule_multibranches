@@ -11,6 +11,7 @@
     <modules>
         <module>the_first_module</module>
         <module>the_second_module</module>
+        <module>the_fourth_module</module>
     </modules>
 
     <profiles>
